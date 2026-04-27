@@ -6,7 +6,7 @@
 <img width="720" alt="GitHub_0" src="https://github.com/user-attachments/assets/14b6d160-1791-4be8-9ebd-cddfdc42412e" />
 
 ## Download
-<a href="https://github.com/Sadc2h4/Meta-Data-Search/releases/tag/V1.1a">
+<a href="https://github.com/P2-Lab-C2H4/Meta-Data-Search/releases/tag/v1.1a">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
